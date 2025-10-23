@@ -3,7 +3,7 @@
 #include<sys/socket.h>
 #include<unistd.h>
 
-main(){
+int main(){
 
 int id1,len,desc;
 char buffer[20];
